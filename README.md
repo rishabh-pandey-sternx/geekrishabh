@@ -41,7 +41,7 @@ I am [Rishabh Pandey](https://geekyants.com/rishabh-pandey). A young enthusiast 
 
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-geekrishabh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geekrishabh/)](https://www.linkedin.com/in/geekrishabh/)
+[![Linkedin Badge](https://img.shields.io/badge/-pandeyrishabh25-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geekrishabh/)](https://www.linkedin.com/in/pandeyrishabh25/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=geekrishabh.geekrishabh)
 <!-- [![Gmail Badge](https://img.shields.io/badge/-geekrishabh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geekrishabh@gmail.com)](mailto:geekrishabh@gmail.com) -->
 
