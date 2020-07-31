@@ -8,7 +8,7 @@ I am [Rishabh Pandey](https://geekyants.com/rishabh-pandey). A young enthusiast 
 - 💵   I code, train and build product & people.
 - 🧑‍🤝‍🧑   I’m open for help with  Building, Infrastructure of scalable and quality product. 
 - 💬   Ask me about: Backend, Scalability of app , performance improvement
-- 📫   How to reach me: geekrishabh.github.com
+- 📫   How to reach me: geekrishabh.github.io
 - 🔍   Find me on web using: Geekrishabh | Pandeyrishabh25
 - 💻   Tech Stack: React|React Native|Redux|NodeJs|AWS|GraphQL|NOSQL|SQL|Webrtc|Laravel
 - 🌏   Based out of Bangalore,India.
