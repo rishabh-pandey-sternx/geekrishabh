@@ -5,10 +5,10 @@ I am [Rishabh Pandey](https://geekyants.com/rishabh-pandey). A young enthusiast 
 
 
 - 📘💻 I’m currently learing Cloud tools AWS, GCP, Azure  
-- 💵   I code, train and build product & people.
-- 🧑‍🤝‍🧑   I’m open for help with  Building, Infrastructure of scalable and quality product. 
-- 💬   Ask me about: Backend, Scalability of app , performance improvement
-- 📫   How to reach me: geekrishabh.github.io
+- 💵   I code, mentor and build products.
+- 🧑‍🤝‍🧑   I’m open for help with  building, Infrastructure of scalable and quality product. 
+- 💬   Ask me about: Backend, Scalability of app , Performance improvement
+- 📫   How to reach me: geekrishabh.in
 - 🔍   Find me on web using: Geekrishabh | Pandeyrishabh25
 - 💻   Tech Stack: React|React Native|Redux|NodeJs|AWS|GraphQL|NOSQL|SQL|Webrtc|Laravel
 - 🌏   Based out of Bangalore,India.
