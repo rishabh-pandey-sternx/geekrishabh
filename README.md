@@ -1,7 +1,7 @@
 ### HELLO WORLD 👋
 
 
-I am [Rishabh Pandey](https://geekyants.com/rishabh-pandey). A young enthusiast who is passionate about technologies, coding, taking up challenges and much more. I have a keen interest in Software and web development along with interest in various technical activities. I love to Code and build Products for people in short giving wings to idea. I am currently working along with [GeekyAnts](https://geekyants.com).
+I am [Rishabh Pandey](https://geekrishabh.in/). A young enthusiast who is passionate about technologies, coding, taking up challenges and much more. I have a keen interest in Software and web development along with interest in various technical activities. I love to Code and build Products for people in short giving wings to idea.
 
 
 - 📘💻 I’m currently learing Cloud tools AWS, GCP, Azure  
